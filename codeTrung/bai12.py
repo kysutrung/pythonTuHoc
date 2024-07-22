@@ -1,7 +1,13 @@
-#bai nay hoc ve vong lap For trong ngon ngu lap trinh Python
+#bài này dùng để học vòng lặp FOR
 
-numA = 100
+numA = 10
+arr1 = [2, 4, 6, 8, 10]
 
+#dùng hàm range để duyệt một dãy số
 for i in range(1,numA):
-    print(i,"hehehe\n")
+    print(i,"hehehe")
 
+print("\n")
+#duyệt trực tiếp dãy số
+for i in arr1:
+    print(i,end=' ')

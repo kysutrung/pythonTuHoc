@@ -10,4 +10,7 @@ for i in range(1,numA):
 print("\n")
 #duyệt trực tiếp dãy số
 for i in arr1:
-    print(i,end=' ')
+    if i < 5:
+        print(i,end=' ')
+    else:
+        print("he", end = '')

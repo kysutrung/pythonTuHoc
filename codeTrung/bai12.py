@@ -1,1 +1,16 @@
-print("Xin chao ca lo")
+#bài này dùng để học vòng lặp FOR
+
+numA = 10
+arr1 = [2, 4, 6, 8, 10]
+
+#dùng hàm range để duyệt một dãy số
+for i in range(1,numA):
+    print(i,"hehehe")
+
+print("\n")
+#duyệt trực tiếp dãy số
+for i in arr1:
+    if i < 5:
+        print(i,end=' ')
+    else:
+        print("he", end = '')

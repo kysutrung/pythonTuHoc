@@ -1,7 +1,8 @@
 
 num1 = 4
+boolA = 2 == 2
 
-if num1 > 5:
-    print("So lon hon 5")
+if boolA:
+    print("hai so bang nhau")
 else:
-    print("So nho hon 5")
+    print("hai so khong bang nhau")

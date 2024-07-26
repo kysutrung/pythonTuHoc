@@ -1,5 +1,5 @@
 #bài làm bài tập if else nhưng dùng lệnh elif cho nhanh
-#bài này hoàn toàn có thể chỉ sử dụng if và else
+#bài này hoàn toàn có thể chỉ sử dụng if và else như bình thường
 
 numA = int(input("Nhap diem cua ban: "))
 

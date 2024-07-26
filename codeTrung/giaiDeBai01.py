@@ -1,3 +1,5 @@
+#bài làm bài tập if else nhưng dùng lệnh elif cho dễ
+
 numA = int(input("Nhap diem cua ban: "))
 
 if(numA >= 90 and numA <= 100):

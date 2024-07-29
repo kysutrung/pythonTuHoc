@@ -15,7 +15,7 @@ n = 60
 else:
     print('Deo thoa man')"""
 
-t = int(input("Nhap thang can ktra:"))
+"""t = int(input("Nhap thang can ktra:"))
 if t == 1 or t == 3 or t == 5 or t == 7 or t == 8 or t == 10 or t == 12 :
     print('Thang co 31 ngay')
 elif t == 4 or t == 6 or t == 11:
@@ -23,4 +23,20 @@ elif t == 4 or t == 6 or t == 11:
 elif t == 2:
     print('Thang co 28 ngay')
 else:
-    print("Du lieu khong dung")
+    print("Du lieu khong dung")"""
+
+#Bai vong lap for: break, continue, nested loop: lap lồng nhau
+#S(n) = 1^2 + 2^2 + 3^2 + ... + n^2
+"""n = 1
+m = 5
+S = 0
+for i in range(n, m +1):
+    S += i*i
+print(S)"""
+
+"""for i in range(1, 20):
+    print(i, end = " ")
+    if i % 7 == 0: break
+    print ("Tuan dep trai")"""
+
+

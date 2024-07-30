@@ -11,7 +11,8 @@ Hướng Dẫn:
 
 Bài Tập 2: Vòng Lặp while – Tính Dãy Fibonacci
 Mô Tả Bài Tập:
-Viết một chương trình Python sử dụng vòng lặp while để in ra n số đầu tiên trong dãy Fibonacci, trong đó n được nhập từ bàn phím. Dãy Fibonacci là dãy số mà mỗi số là tổng của hai số trước đó, bắt đầu từ 0 và 1.
+Viết một chương trình Python sử dụng vòng lặp while để in ra n số đầu tiên trong dãy Fibonacci, trong đó n được nhập từ bàn phím. Dãy Fibonacci là dãy
+số mà mỗi số là tổng của hai số trước đó, bắt đầu từ 0 và 1.
 
 Hướng Dẫn:
 

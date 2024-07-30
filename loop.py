@@ -36,5 +36,7 @@ def fibonacci(n):
         count += 1
 fibonacci(n)
 
+#tuyệt vời rồi, tập gói gọn bài toán vào trong 1 hàm như thế rất có lợi khi về
+#sau học lên những thứ phức tạp hơn
 
 

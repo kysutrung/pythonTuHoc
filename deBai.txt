@@ -9,4 +9,4 @@ Viết một chương trình Python để phân loại điểm số của học 
 
 Yêu Cầu:
 Yêu cầu người dùng nhập điểm số (một số nguyên từ 0 đến 100).
-Sử dụng cấu trúc if-else để phân loại điểm số và in ra kết quả tương ứng.
+Sử dụng cấu trúc if-else để phân loại điểm số và in ra kết quả tương ứng

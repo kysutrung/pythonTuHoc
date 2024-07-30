@@ -31,12 +31,13 @@ def fibonacci(n):
     
     while count < n:
         print(so1, end=' ')
-        so1 = so2
-        so2 = so1 + so2
+        so1 = so2 #vấn đề là trên này đã thay đổi số 1 thành số 2
+        so2 = so1 + so2 #nên ở dòng nay sẽ không khác gì so2 = so2 + so2
         count += 1
 fibonacci(n)
 
 #tuyệt vời rồi, tập gói gọn bài toán vào trong 1 hàm như thế rất có lợi khi về
 #sau học lên những thứ phức tạp hơn
+#bài 2 sai cần xem lại
 
 

@@ -38,5 +38,6 @@ print(S)"""
     print(i, end = " ")
     if i % 7 == 0: break
     print ("Tuan dep trai")"""
-
-
+a = True
+if a:
+    print(a)

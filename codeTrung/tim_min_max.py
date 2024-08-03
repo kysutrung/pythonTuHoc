@@ -1,3 +1,4 @@
+#Bài tập tìm thủ công min và max của một tập hợp dãy số
 day_so = [0, 3, 6, 9, 8, 0, 8, 4]
 
 def tim_min(list_a):

@@ -42,17 +42,4 @@ print(S)"""
 if a:
     print(a)"""
 
-def fibonacci(n):
-    a, b = 0, 1
-    count = 0
-    
-    while count < n:
-        print(a, end=' ')
-        a, b = b, a + b
-        count += 1
 
-# Nhập số n từ bàn phím
-n = int(input("Nhập số lượng số Fibonacci cần in: "))
-
-# Gọi hàm fibonacci với tham số n
-fibonacci(n)

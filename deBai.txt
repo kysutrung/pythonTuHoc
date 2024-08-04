@@ -1,7 +1,19 @@
-Bài tập: In bảng cửu chương
-Yêu cầu: Viết một chương trình in bảng cửu chương từ 1 đến 10.
+Bài tập 1: Sắp xếp danh sách con bên trong danh sách 2D
+Yêu cầu: Viết hàm sap_xep_danh_sach_2d(list_2d) để sắp xếp mỗi danh sách
+con bên trong danh sách 2D theo thứ tự tăng dần.
 
-Bài tập: Đếm số lần xuất hiện của ký tự trong chuỗi
-Yêu cầu: Viết một chương trình đếm số lần xuất hiện của
-một ký tự trong một chuỗi.
+Bài tập 2: Tìm số dài nhất trong danh sách các số nguyên
+Yêu cầu: Viết hàm tim_so_dai_nhat(list_a) để tìm số có nhiều chữ số
+nhất trong danh sách các số nguyên list_a.
 
+Bài tập 3: Tìm các phần tử chung giữa hai danh sách
+Yêu cầu: Viết hàm tim_phan_tu_chung(list_a, list_b) để tìm các phần 
+tử chung giữa hai danh sách list_a và list_b.
+
+Bài tập 4: Xoay vòng danh sách
+Yêu cầu: Viết hàm xoay_vong_danh_sach(list_a, k) để xoay vòng 
+danh sách list_a sang phải k vị trí.
+
+Bài tập 5: Kiểm tra danh sách có phải là dãy số tăng dần hoặc giảm dần
+Yêu cầu: Viết hàm kiem_tra_tang_giam(list_a) để kiểm tra xem danh sách 
+list_a có phải là dãy số tăng dần hoặc giảm dần hay không.

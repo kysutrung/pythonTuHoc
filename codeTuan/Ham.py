@@ -22,6 +22,6 @@ def lt(a, b):
     return res
 
 if __name__ == '__main__':
-    print(gt(5))
+    print(giaithua(5))
     print(lt(2,10))
     

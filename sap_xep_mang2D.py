@@ -13,6 +13,7 @@ def bubble_sort(list_n):
                 list_n[o], list_n[o+1] = list_n[o+1], list_n[o]
         m += 1
 
+
 for item in list_a:
     bubble_sort(item)
 print(list_a)

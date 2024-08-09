@@ -1,19 +1,25 @@
-Bài tập 1: Sắp xếp danh sách con bên trong danh sách 2D
-Yêu cầu: Viết hàm sap_xep_danh_sach_2d(list_2d) để sắp xếp mỗi danh sách
-con bên trong danh sách 2D theo thứ tự tăng dần.
+Câu hỏi1:
+Python có nhiều hàm được tích hợp sẵn, nếu không biết cách sử dụng nó,
+bạn có thể đọc tài liệu trực tuyến hoặc tìm vài cuốn sách. Nhưng Python cũng có
+sẵn tài liệu về hàm cho mọi hàm tích hợp trong Python. Yêu cầu của bài tập này là
+viết một chương trình để in tài liệu về một số hàm Python được tích hợp sẵn
+như abs(), int(), input() và thêm tài liệu cho hàm bạn tự định nghĩa.
 
-Bài tập 2: Tìm số dài nhất trong danh sách các số nguyên
-Yêu cầu: Viết hàm tim_so_dai_nhat(list_a) để tìm số có nhiều chữ số
-nhất trong danh sách các số nguyên list_a.
+Gợi ý:
 
-Bài tập 3: Tìm các phần tử chung giữa hai danh sách
-Yêu cầu: Viết hàm tim_phan_tu_chung(list_a, list_b) để tìm các phần 
-tử chung giữa hai danh sách list_a và list_b.
+Sử dụng __doc__
 
-Bài tập 4: Xoay vòng danh sách
-Yêu cầu: Viết hàm xoay_vong_danh_sach(list_a, k) để xoay vòng 
-danh sách list_a sang phải k vị trí.
+Câu hỏi2:
+Viết chương trình nhập: số giờ làm mỗi tuần, thù lao trên mỗi giờ làm tiêu chuẩn,
+từ đó tính ra số tiền thực lĩnh của nhân viên. Biết rằng: số giờ tiêu chuẩn mỗi tuần
+là 44 giờ, và mỗi giờ vượt chuẩn được trả gấp rưỡi so với giờ làm chuẩn.
 
-Bài tập 5: Kiểm tra danh sách có phải là dãy số tăng dần hoặc giảm dần
-Yêu cầu: Viết hàm kiem_tra_tang_giam(list_a) để kiểm tra xem danh sách 
-list_a có phải là dãy số tăng dần hoặc giảm dần hay không.
+Câu hỏi3:
+Viết một chương trình có 2 chữ số, X, Y nhận giá trị từ đầu vào và tạo
+ra một mảng 2 chiều.
+Giá trị phần tử trong hàng thứ i và cột thứ j của mảng phải là i*j.
+
+Lưu ý: i=0,1,...,X-1; j=0,1,...,Y-1.
+
+Ví dụ: Giá trị X, Y nhập vào là 3,5 thì đầu ra là:
+[[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]]

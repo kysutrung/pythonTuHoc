@@ -1,6 +1,25 @@
-Bài tập: Đếm số lần xuất hiện của ký tự trong chuỗi
-Yêu cầu: Viết một chương trình đếm số lần xuất hiện
-của một ký tự trong một chuỗi.
+Câu hỏi1:
+Python có nhiều hàm được tích hợp sẵn, nếu không biết cách sử dụng nó,
+bạn có thể đọc tài liệu trực tuyến hoặc tìm vài cuốn sách. Nhưng Python cũng có
+sẵn tài liệu về hàm cho mọi hàm tích hợp trong Python. Yêu cầu của bài tập này là
+viết một chương trình để in tài liệu về một số hàm Python được tích hợp sẵn
+như abs(), int(), input() và thêm tài liệu cho hàm bạn tự định nghĩa.
 
-Bài tập 2: In ra bảng cửu chương từ 1 đến 10
+Gợi ý:
 
+Sử dụng __doc__
+
+Câu hỏi2:
+Viết chương trình nhập: số giờ làm mỗi tuần, thù lao trên mỗi giờ làm tiêu chuẩn,
+từ đó tính ra số tiền thực lĩnh của nhân viên. Biết rằng: số giờ tiêu chuẩn mỗi tuần
+là 44 giờ, và mỗi giờ vượt chuẩn được trả gấp rưỡi so với giờ làm chuẩn.
+
+Câu hỏi3:
+Viết một chương trình có 2 chữ số, X, Y nhận giá trị từ đầu vào và tạo
+ra một mảng 2 chiều.
+Giá trị phần tử trong hàng thứ i và cột thứ j của mảng phải là i*j.
+
+Lưu ý: i=0,1,...,X-1; j=0,1,...,Y-1.
+
+Ví dụ: Giá trị X, Y nhập vào là 3,5 thì đầu ra là:
+[[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]]
